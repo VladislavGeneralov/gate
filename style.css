@@ -26,14 +26,14 @@ body {
 h2 {
   font-weight: 400;
   margin-bottom: 8px;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 /* TEXT vs LINKS hierarchy */
 p {
   margin: 6px 0;
   opacity: 0.92;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* LINKS slightly smaller than text */
@@ -42,7 +42,7 @@ a {
   margin-top: 6px;
   color: #fff;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 16px;
   transition: color 0.2s ease;
 }
 
